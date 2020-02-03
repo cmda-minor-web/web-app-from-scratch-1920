@@ -7,7 +7,7 @@
 ## Installation
 ```bash
 # Clone the repository
-git clone link/to/repo
+git clone https://github.com/kriskuiper/web-app-from-scratch-1920.git
 
 # Install dependencies using yarn or npm
 yarn / npm install
