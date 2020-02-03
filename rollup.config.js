@@ -4,7 +4,7 @@ import resolve from '@rollup/plugin-node-resolve'
 export default {
 	input: 'src/app.js',
 	output: {
-		file: 'docs/scripts/app.js',
+		file: 'docs/js/app.js',
 		format: 'iife',
 		name: 'bundle',
 	},
